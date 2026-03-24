@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ashok Chy Raja
+# 👋 Hi, I'm Ashok Chaudhary
 
 💻 BIT Student | Future Software Developer  
 🌏 From Nepal  
