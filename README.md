@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Ashok Chaudhary
+![Banner](banner.gif)
 
 💻 BIT Student | Future Software Developer  
 🌏 From Nepal  
