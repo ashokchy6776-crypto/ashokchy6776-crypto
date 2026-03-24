@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashok Chy Raja
 
-<!--
-**ashokchy6776-crypto/ashokchy6776-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BIT Student | Future Software Developer  
+🌏 From Nepal  
+🎮 Gamer | 💻 Tech Lover | 🚀 Learning Programming  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🎓 Studying Bachelor of Information Technology (BIT)
+- 🌱 Currently learning *C Programming*
+- 💡 Interested in *Cyber Security, Web Development, and Crypto Technology*
+- 🎮 Love gaming and technology
+
+---
+
+## 🛠 Skills
+- C Programming
+- Computer Fundamentals
+- Digital Logic
+- Git & GitHub (Beginner)
+
+---
+
+## 🚀 Goals
+- Become a *Software Engineer*
+- Learn *Cyber Security*
+- Work in *Korea or International Tech Company*
+
+---
+
+## 📊 GitHub Stats
+![Ashok's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashokchy6776&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/ashokchy6776
+
+---
+
+⭐ *Thanks for visiting my profile!*
